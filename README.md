@@ -9,7 +9,7 @@ I have a few pinned projects but my favorite is the <a href="https://github.com/
 Fun Facts:
 <li>I've been playing chess since I was 5 years old. I became the Maryland State Champion in the 11th Grade.</li>
 <li>I'm working on a tool to help creators track their content performance and sales impact.</li>
-<li>I spend a lot of my free time painting.</li>
+<li>I like to spend my free time painting.</li>
 
 <!--
 **biancalyonsj/biancalyonsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
