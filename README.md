@@ -1,6 +1,6 @@
 ## Hey there! 😄
 
-I'm Bianca, a front-end developer based in the United States.
+I'm Bianca, a frontend engineer based in the United States.
 
 I like to design and build fun creative projects using JavaScript.
 
