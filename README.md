@@ -4,7 +4,7 @@ I'm Bianca, a frontend engineer based in the United States.
 
 I like to design and build fun creative projects using JavaScript.
 
-I have a few pinned projects but my favorite is the <a href="https://github.com/biancalyonsj/creator-dashboard">Creator Dashboard</a>!
+I have a few pinned projects but my favorite is the <a href="https://github.com/biancalyonsj/creator-dashboard">Content Creator Dashboard</a>!
 
 Fun Facts:
 <li>I've been playing chess since I was 5 years old. I became the Maryland State Champion in the 11th Grade.</li>
