@@ -2,9 +2,9 @@
 
 I'm Bianca, a frontend engineer based in the United States.
 
-I like to design and create tools for content creators to grow their brand on social media.
+I like to design and create tools to help content creators grow their brand on social media.
 
-I have a few pinned projects but my favorite is the <a href="https://github.com/biancalyonsj/content-creator-chrome-extension">Content Creator Bookmarker</a>!
+I have a few pinned projects but my favorite is the <a href="https://github.com/biancalyonsj/content-creator-chrome-extension">Chrome Extenton</a> for content creators!
 
 Fun Facts:
 <li>I've been playing chess since I was 5 years old. I became the Maryland State Champion in the 11th Grade.</li>
