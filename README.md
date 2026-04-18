@@ -1,8 +1,8 @@
 ## Hey there! 😄
 
-I'm Bianca, a frontend engineer based in the United States.
+My name is Bianca and I am a front-end engineer based in the United States.
 
-I like to design and create tools to help content creators grow their brand on social media.
+I'm currently building an ecosystem of tools to help content creators stay consistent, track their performance and grow their brand.
 
 I have a few pinned projects but my favorite is the <a href="https://github.com/biancalyonsj/content-creator-chrome-extension">Chrome Extension</a> for content creators!
 
