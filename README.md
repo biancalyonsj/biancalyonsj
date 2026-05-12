@@ -1,14 +1,13 @@
 ## Hey there! 😄
 
-My name is Bianca and I am a front-end engineer based in the United States.
+My name is Bianca and I am a software engineer based in the United States.
 
-I'm currently building an ecosystem of tools to help content creators stay consistent, track their performance and grow their brand.
+I'm currently building a modernized browser based MS Paint. Check out the progress <a href="https://github.com/biancalyonsj/canvas">here</a>!
 
 I have a few pinned projects but my favorite is the <a href="https://github.com/biancalyonsj/content-creator-chrome-extension">Chrome Extension</a> for content creators!
 
 Fun Facts:
 <li>I've been playing chess since I was 5 years old. I became the Maryland State Champion in the 11th Grade.</li>
-<li>I'm working on a tool to help creators track their content performance and sales impact.</li>
 <li>I like to spend my free time painting.</li>
 
 <!--
