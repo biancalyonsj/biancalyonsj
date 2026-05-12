@@ -2,7 +2,7 @@
 
 My name is Bianca and I am a software engineer based in the United States.
 
-I'm currently building a modernized browser based MS Paint. Check out the progress <a href="https://github.com/biancalyonsj/canvas">here</a>!
+I'm currently building a modern interactive digital painting app inspired by MS Paint using React, Next.js, Tailwind CSS, Zustand, and the HTML5 Canvas API. My focus for this project is smooth drawing mechanics and creative user focused design. Check out my progress <a href="https://github.com/biancalyonsj/canvas">here</a>!
 
 I have a few pinned projects but my favorite is the <a href="https://github.com/biancalyonsj/content-creator-chrome-extension">Chrome Extension</a> for content creators!
 
