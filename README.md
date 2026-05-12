@@ -1,6 +1,6 @@
 ## Hey there! 😄
 
-My name is Bianca and I am a software engineer based in the United States.
+My name is Bianca and I am a Software Engineer based in the United States.
 
 I'm currently building a modern interactive digital painting app inspired by MS Paint. My focus for this project is smooth drawing mechanics and creative user focused design. Check out my progress <a href="https://github.com/biancalyonsj/canvas">here</a>!
 
