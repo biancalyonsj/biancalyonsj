@@ -4,7 +4,7 @@ My name is Bianca and I am a Software Engineer based in the United States.
 
 I have a few pinned projects but my favorite is the <a href="https://github.com/biancalyonsj/content-creator-chrome-extension">Chrome Extension</a> for content creators!
 
-I'm currently building a modern interactive digital painting app inspired by MS Paint. My focus for this project is smooth drawing mechanics and creative user focused design. Check out my progress <a href="https://github.com/biancalyonsj/canvas">here</a>!
+I'm currently building a modern interactive digital painting app inspired by MS Paint. My focus for this project is smooth drawing mechanics and creative UI design. Check out my progress <a href="https://github.com/biancalyonsj/canvas">here</a>!
 
 Fun Facts:
 <li>I've been playing chess since I was 5 years old. I became the Maryland State Champion in the 11th Grade.</li>
