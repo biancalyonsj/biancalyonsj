@@ -1,6 +1,6 @@
 ## Hey there! 😄
 
-My name is Bianca and I am a Software engineer with experience in the automotive industry, now focused on building interactive 3D experiences for the web!
+My name is Bianca and I am a Software Engineer with experience in the automotive industry, now focused on building interactive 3D experiences for the web!
 
 I love working with Three.js, WebGL, and Blender to create cool browser-based graphics, animation, and engaging websites.
 
