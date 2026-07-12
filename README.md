@@ -1,6 +1,8 @@
 ## Hey there! 😄
 
-My name is Bianca and I am a Software Engineer based in the United States.
+My name is Bianca and I am a Software engineer with experience in the automotive industry, now focused on building interactive 3D experiences for the web!
+
+I love working with Three.js, WebGL, and Blender to create cool browser-based graphics, animation, and engaging websites.
 
 I have a few pinned projects but my favorite is the <a href="https://github.com/biancalyonsj/content-creator-chrome-extension">Chrome Extension</a> for content creators!
 
